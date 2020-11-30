@@ -11,9 +11,9 @@ app.use(express.json());
 
 
 app.listen(PORT, function() {
-console.log("Listening on port: " + PORT!)
+console.log("Listening on port: " + PORT)
 });
 
-app.get("/api/notes", function(req, res) {
+// app.get("/api/notes", function(req, res) {
     
-})
+// })
